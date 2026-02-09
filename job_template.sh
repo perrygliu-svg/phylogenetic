@@ -31,4 +31,3 @@ echo "Running Analysis on Beast... "
     java -jar "${BEAST_LOCATION}/beast-mcmc/build/dist/beast.jar"  -beagle_order $BEAGLE_ORDER  \
       -seed 666 -overwrite "${xml_analysis}" > "output.txt"  2>&1
 
-qsub ~/phylogenetics/shfilename.sh
