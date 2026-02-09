@@ -9,10 +9,9 @@
 #$ -M $USER@mail
 #$ -m bea
 
-BEAST_LOCATION="" # with the path to the location
-xml_analysis="" #including both the path and the name
-BEAGLE_ORDER="0" if using Cpu node
-BEAGLE_ORDER="1" if using gpu
+BEAST_LOCATION="/u/home/p/perry/Projects/beast-mcmc" # with the path to the location
+xml_analysis="/u/home/p/perry/phylogenetic/simulation.xml" #including both the path and the name
+BEAGLE_ORDER="1"
 
 . /u/local/Modules/default/init/modules.sh
 module load gcc
