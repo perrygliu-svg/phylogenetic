@@ -23,8 +23,8 @@ echo "Date: " `date `
 echo "Device: $GPU_DEVICE_ORDINAL" # TODO check if this is correct since the output is 0
 echo "Script name $0"
 
-export LD_LIBRARY_PATH="$HOME/usr/local/lib:$\{LD_LIBRARY_PATH:-\}"
-export PKG_CONFIG_PATH="$HOME/usr/local/lib/pkgconfig:$\{PKG_CONFIG_PATH:-\}"
+export LD_LIBRARY_PATH="$HOME/lib:$\{LD_LIBRARY_PATH:-\}"
+export PKG_CONFIG_PATH="$HOME/lib/pkgconfig:$\{PKG_CONFIG_PATH:-\}"
 
 echo "The output folder is: ${folder_name}"
 echo "Running Analysis on Beast... "
