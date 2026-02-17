@@ -10,7 +10,7 @@
 #$ -m bea
 
 BEAST_LOCATION="/u/home/p/perry/Projects/beast-mcmc" # with the path to the location
-xml_analysis="/u/home/p/perry/phylogenetic/simulation_Geo.xml" #including both the path and the name
+xml_analysis="/u/home/p/perry/phylogenetic/RABV.N.UCLN.BSP20.DISCsvsDis.xml" #including both the path and the name
 BEAGLE_ORDER="0"
 
 . /u/local/Modules/default/init/modules.sh
