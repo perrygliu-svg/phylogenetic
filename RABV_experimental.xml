@@ -14,614 +14,614 @@
 	<taxa id="taxa">
 		<taxon id="02025SEN/2001">
 			<date value="2001.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07008SEN/2003">
 			<date value="2003.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07009SEN/2003">
 			<date value="2003.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07011SEN/2004">
 			<date value="2004.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07014SEN/2004">
 			<date value="2004.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07017SEN/2006">
 			<date value="2006.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07018SEN/1995">
 			<date value="1995.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07019SEN/1996">
 			<date value="1996.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07020SEN/2002">
 			<date value="2002.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07021SEN/2004">
 			<date value="2004.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07022SEN/2005">
 			<date value="2005.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07023SEN/2005">
 			<date value="2005.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07024SEN/2005">
 			<date value="2005.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07027SEN/2006">
 			<date value="2006.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07028SEN/2006">
 			<date value="2006.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07029SEN/2006">
 			<date value="2006.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07149RCA/2004">
 			<date value="2004.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				RC
 			</attr>
 		</taxon>
 		<taxon id="07197SEN/1995">
 			<date value="1995.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07207SEN/1997">
 			<date value="1997.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07208SL/1997">
 			<date value="1997.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SL
 			</attr>
 		</taxon>
 		<taxon id="07209SEN/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="07211MAL/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="07213MAL/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="07214MAL/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="07217MAL/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="07220MAL/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="07221MAL/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="07222MAL/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="07225MAL/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="07226MAL/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="07227MAL/2006">
 			<date value="2006.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="07232MAL/2006">
 			<date value="2006.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="07233MAL/2006">
 			<date value="2006.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="07235MAL/2006">
 			<date value="2006.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="07238MAL/2006">
 			<date value="2006.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="139BF/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				BF
 			</attr>
 		</taxon>
 		<taxon id="28BF/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				BF
 			</attr>
 		</taxon>
 		<taxon id="36BF/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				BF
 			</attr>
 		</taxon>
 		<taxon id="49BF/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				BF
 			</attr>
 		</taxon>
 		<taxon id="07059IC/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				IC
 			</attr>
 		</taxon>
 		<taxon id="8697BEN/1986">
 			<date value="1986.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				BE
 			</attr>
 		</taxon>
 		<taxon id="8718NIG/1987">
 			<date value="1987.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				NI
 			</attr>
 		</taxon>
 		<taxon id="8801CAM/1987">
 			<date value="1987.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				CA
 			</attr>
 		</taxon>
 		<taxon id="8804CAM/1988">
 			<date value="1988.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				CA
 			</attr>
 		</taxon>
 		<taxon id="8805CAM/1988">
 			<date value="1988.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				CA
 			</attr>
 		</taxon>
 		<taxon id="8911IC/1989">
 			<date value="1989.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				IC
 			</attr>
 		</taxon>
 		<taxon id="8912IC/1989">
 			<date value="1989.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				IC
 			</attr>
 		</taxon>
 		<taxon id="8913IC/1989">
 			<date value="1989.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				IC
 			</attr>
 		</taxon>
 		<taxon id="9003IC/1990">
 			<date value="1990.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				IC
 			</attr>
 		</taxon>
 		<taxon id="9021TCH/1990">
 			<date value="1990.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				TC
 			</attr>
 		</taxon>
 		<taxon id="9024GUI/1990">
 			<date value="1990.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				GU
 			</attr>
 		</taxon>
 		<taxon id="9026IC/1990">
 			<date value="1990.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				IC
 			</attr>
 		</taxon>
 		<taxon id="9120MAU/1991">
 			<date value="1991.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="9131MAU/1991">
 			<date value="1991.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="9132MAU/1991">
 			<date value="1991.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="9133MAU/1991">
 			<date value="1991.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="9136MAU/1991">
 			<date value="1991.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="9218TCH/1992">
 			<date value="1992.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				TC
 			</attr>
 		</taxon>
 		<taxon id="9237IC/1992">
 			<date value="1992.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				IC
 			</attr>
 		</taxon>
 		<taxon id="9238IC/1992">
 			<date value="1992.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				IC
 			</attr>
 		</taxon>
 		<taxon id="9239IC/1992">
 			<date value="1992.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				IC
 			</attr>
 		</taxon>
 		<taxon id="9303SEN/1991">
 			<date value="1991.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				SE
 			</attr>
 		</taxon>
 		<taxon id="9311MAU/1993">
 			<date value="1993.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="9312MAU/1993">
 			<date value="1993.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="9314MAU/1993">
 			<date value="1993.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="9361GUI/1993">
 			<date value="1993.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				GU
 			</attr>
 		</taxon>
 		<taxon id="9421MAU/1994">
 			<date value="1994.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="9609TCH/1996">
 			<date value="1996.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				TC
 			</attr>
 		</taxon>
 		<taxon id="Burkina-124/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				Bu
 			</attr>
 		</taxon>
 		<taxon id="Burkina-137/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				Bu
 			</attr>
 		</taxon>
 		<taxon id="Burkina-144/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				Bu
 			</attr>
 		</taxon>
 		<taxon id="Burkina-19/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				Bu
 			</attr>
 		</taxon>
 		<taxon id="Burkina-20/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				Bu
 			</attr>
 		</taxon>
 		<taxon id="Burkina-21/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				Bu
 			</attr>
 		</taxon>
 		<taxon id="Burkina-70/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				Bu
 			</attr>
 		</taxon>
 		<taxon id="Mauritania-1920/05/2005">
 			<date value="2005.0" direction="forwards" units="years"/>
-			<attr name="geo">
-				Ma
+			<attr name="geo_attr">
+				MA
 			</attr>
 		</taxon>
 		<taxon id="Mauritania-1922/05/2005">
 			<date value="2005.0" direction="forwards" units="years"/>
-			<attr name="geo">
-				Ma
+			<attr name="geo_attr">
+				MA
 			</attr>
 		</taxon>
 		<taxon id="Mauritania-1923/05/2005">
 			<date value="2005.0" direction="forwards" units="years"/>
-			<attr name="geo">
-				Ma
+			<attr name="geo_attr">
+				MA
 			</attr>
 		</taxon>
 		<taxon id="Mauritania-1929/06/2006">
 			<date value="2006.0" direction="forwards" units="years"/>
-			<attr name="geo">
-				Ma
+			<attr name="geo_attr">
+				MA
 			</attr>
 		</taxon>
 		<taxon id="Mauritania-1941/06/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
-				Ma
+			<attr name="geo_attr">
+				MA
 			</attr>
 		</taxon>
 		<taxon id="Mauritania-2019/06/2006">
 			<date value="2006.0" direction="forwards" units="years"/>
-			<attr name="geo">
-				Ma
+			<attr name="geo_attr">
+				MA
 			</attr>
 		</taxon>
 		<taxon id="Mauritania-2049/07/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
-				Ma
+			<attr name="geo_attr">
+				MA
 			</attr>
 		</taxon>
 		<taxon id="Niger-246/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
-				Ni
+			<attr name="geo_attr">
+				NI
 			</attr>
 		</taxon>
 		<taxon id="Niger-247/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
-				Ni
+			<attr name="geo_attr">
+				NI
 			</attr>
 		</taxon>
 		<taxon id="Niger-251/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
-				Ni
+			<attr name="geo_attr">
+				NI
 			</attr>
 		</taxon>
 		<taxon id="Niger-252/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
-				Ni
+			<attr name="geo_attr">
+				NI
 			</attr>
 		</taxon>
 		<taxon id="8636HAV/1995">
 			<date value="1995.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				HA
 			</attr>
 		</taxon>
 		<taxon id="8659GUI/1986">
 			<date value="1986.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				GU
 			</attr>
 		</taxon>
 		<taxon id="8660GUI/1986">
 			<date value="1986.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				GU
 			</attr>
 		</taxon>
 		<taxon id="8689MAU/1986">
 			<date value="1986.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				MA
 			</attr>
 		</taxon>
 		<taxon id="8731TCH/1987">
 			<date value="1987.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				TC
 			</attr>
 		</taxon>
 		<taxon id="8732TCH/1987">
 			<date value="1987.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				TC
 			</attr>
 		</taxon>
 		<taxon id="8733TCH/1987">
 			<date value="1987.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				TC
 			</attr>
 		</taxon>
 		<taxon id="9009NIG/1990">
 			<date value="1990.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				NI
 			</attr>
 		</taxon>
 		<taxon id="9010NIG/1990">
 			<date value="1990.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				NI
 			</attr>
 		</taxon>
 		<taxon id="9011NIG/1990">
 			<date value="1990.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				NI
 			</attr>
 		</taxon>
 		<taxon id="9012NIG/1990">
 			<date value="1990.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				NI
 			</attr>
 		</taxon>
 		<taxon id="9013NIG/1990">
 			<date value="1990.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				NI
 			</attr>
 		</taxon>
 		<taxon id="9014NIG/1990">
 			<date value="1990.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				NI
 			</attr>
 		</taxon>
 		<taxon id="9547HAV/1995">
 			<date value="1995.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				HA
 			</attr>
 		</taxon>
 		<taxon id="Burkina-37/2007">
 			<date value="2007.0" direction="forwards" units="years"/>
-			<attr name="geo">
+			<attr name="geo_attr">
 				Bu
 			</attr>
 		</taxon>
 	</taxa>
 	
 	
-	<taxa id="rabies_dog">
+	<taxa id="untitled0">
 		<taxon idref="02025SEN/2001"/>
 		<taxon idref="07008SEN/2003"/>
 		<taxon idref="07009SEN/2003"/>
@@ -1137,37 +1137,37 @@
 	
 	
 
-	<!-- The patterns for codon positions 1 & 2                                  -->
+	<!-- The unique patterns for codon positions 1 & 2                           -->
 	<mergePatterns id="CP1+2.patterns">
 
-		<!-- The patterns from 1 to end every 3                                      -->
-		<!-- npatterns=450                                                           -->
-		<patterns from="1" every="3" unique="false">
+		<!-- The unique patterns from 1 to end every 3                               -->
+		<!-- npatterns=42                                                            -->
+		<patterns from="1" every="3" strip="false">
 			<alignment idref="alignment"/>
 		</patterns>
 
-		<!-- The patterns from 2 to end every 3                                      -->
-		<!-- npatterns=450                                                           -->
-		<patterns from="2" every="3" unique="false">
+		<!-- The unique patterns from 2 to end every 3                               -->
+		<!-- npatterns=29                                                            -->
+		<patterns from="2" every="3" strip="false">
 			<alignment idref="alignment"/>
 		</patterns>
 	</mergePatterns>
 
-	<!-- The patterns for codon position 3                                       -->
+	<!-- The unique patterns for codon position 3                                -->
 
-	<!-- The patterns from 3 to end every 3                                      -->
-	<!-- npatterns=450                                                           -->
-	<patterns id="CP3.patterns" from="3" every="3" unique="false">
+	<!-- The unique patterns from 3 to end every 3                               -->
+	<!-- npatterns=244                                                           -->
+	<patterns id="CP3.patterns" from="3" every="3" strip="false">
 		<alignment idref="alignment"/>
 	</patterns>
 	
 
 	<!-- START Discrete Traits Model                                             -->
 
-	<!-- general data type for discrete trait model, 'geo'                       -->
-	<generalDataType id="geo.dataType">
+	<!-- general data type for discrete trait model, 'geo_attr'                  -->
+	<generalDataType id="geo_attr.dataType">
 
-		<!-- Number Of States = 15                                                   -->
+		<!-- Number Of States = 13                                                   -->
 		<state code="BE"/>
 		<state code="BF"/>
 		<state code="Bu"/>
@@ -1176,9 +1176,7 @@
 		<state code="HA"/>
 		<state code="IC"/>
 		<state code="MA"/>
-		<state code="Ma"/>
 		<state code="NI"/>
-		<state code="Ni"/>
 		<state code="RC"/>
 		<state code="SE"/>
 		<state code="SL"/>
@@ -1186,10 +1184,10 @@
 	</generalDataType>
 
 
-	<!-- Data pattern for discrete trait, 'geo'                                  -->
-	<attributePatterns id="geo.pattern" attribute="geo">
+	<!-- Data pattern for discrete trait, 'geo_attr'                             -->
+	<attributePatterns id="geo_attr.pattern" attribute="geo_attr">
 		<taxa idref="taxa"/>
-		<generalDataType idref="geo.dataType"/>
+		<generalDataType idref="geo_attr.dataType"/>
 	</attributePatterns>
 
 	<!-- END Discrete Traits Model                                               -->
@@ -1207,7 +1205,7 @@
 	<!-- Generate a random starting tree under the coalescent process            -->
 	<coalescentSimulator id="startingTree">
 		<coalescentSimulator>
-			<taxa idref="rabies_dog"/>
+			<taxa idref="untitled0"/>
 			<constantSize idref="constant"/>
 		</coalescentSimulator>
 		<taxa idref="taxa"/>
@@ -1276,9 +1274,6 @@
 		</leafHeight>
 		<leafHeight taxon="07029SEN/2006">
 			<parameter id="age(07029SEN/2006)"/>
-		</leafHeight>
-		<leafHeight taxon="07059IC/2007">
-			<parameter id="age(07059IC/2007)"/>
 		</leafHeight>
 		<leafHeight taxon="07149RCA/2004">
 			<parameter id="age(07149RCA/2004)"/>
@@ -1349,32 +1344,14 @@
 		<leafHeight taxon="49BF/2007">
 			<parameter id="age(49BF/2007)"/>
 		</leafHeight>
-		<leafHeight taxon="8636HAV/1995">
-			<parameter id="age(8636HAV/1995)"/>
-		</leafHeight>
-		<leafHeight taxon="8659GUI/1986">
-			<parameter id="age(8659GUI/1986)"/>
-		</leafHeight>
-		<leafHeight taxon="8660GUI/1986">
-			<parameter id="age(8660GUI/1986)"/>
-		</leafHeight>
-		<leafHeight taxon="8689MAU/1986">
-			<parameter id="age(8689MAU/1986)"/>
+		<leafHeight taxon="07059IC/2007">
+			<parameter id="age(07059IC/2007)"/>
 		</leafHeight>
 		<leafHeight taxon="8697BEN/1986">
 			<parameter id="age(8697BEN/1986)"/>
 		</leafHeight>
 		<leafHeight taxon="8718NIG/1987">
 			<parameter id="age(8718NIG/1987)"/>
-		</leafHeight>
-		<leafHeight taxon="8731TCH/1987">
-			<parameter id="age(8731TCH/1987)"/>
-		</leafHeight>
-		<leafHeight taxon="8732TCH/1987">
-			<parameter id="age(8732TCH/1987)"/>
-		</leafHeight>
-		<leafHeight taxon="8733TCH/1987">
-			<parameter id="age(8733TCH/1987)"/>
 		</leafHeight>
 		<leafHeight taxon="8801CAM/1987">
 			<parameter id="age(8801CAM/1987)"/>
@@ -1396,24 +1373,6 @@
 		</leafHeight>
 		<leafHeight taxon="9003IC/1990">
 			<parameter id="age(9003IC/1990)"/>
-		</leafHeight>
-		<leafHeight taxon="9009NIG/1990">
-			<parameter id="age(9009NIG/1990)"/>
-		</leafHeight>
-		<leafHeight taxon="9010NIG/1990">
-			<parameter id="age(9010NIG/1990)"/>
-		</leafHeight>
-		<leafHeight taxon="9011NIG/1990">
-			<parameter id="age(9011NIG/1990)"/>
-		</leafHeight>
-		<leafHeight taxon="9012NIG/1990">
-			<parameter id="age(9012NIG/1990)"/>
-		</leafHeight>
-		<leafHeight taxon="9013NIG/1990">
-			<parameter id="age(9013NIG/1990)"/>
-		</leafHeight>
-		<leafHeight taxon="9014NIG/1990">
-			<parameter id="age(9014NIG/1990)"/>
 		</leafHeight>
 		<leafHeight taxon="9021TCH/1990">
 			<parameter id="age(9021TCH/1990)"/>
@@ -1469,9 +1428,6 @@
 		<leafHeight taxon="9421MAU/1994">
 			<parameter id="age(9421MAU/1994)"/>
 		</leafHeight>
-		<leafHeight taxon="9547HAV/1995">
-			<parameter id="age(9547HAV/1995)"/>
-		</leafHeight>
 		<leafHeight taxon="9609TCH/1996">
 			<parameter id="age(9609TCH/1996)"/>
 		</leafHeight>
@@ -1492,9 +1448,6 @@
 		</leafHeight>
 		<leafHeight taxon="Burkina-21/2007">
 			<parameter id="age(Burkina-21/2007)"/>
-		</leafHeight>
-		<leafHeight taxon="Burkina-37/2007">
-			<parameter id="age(Burkina-37/2007)"/>
 		</leafHeight>
 		<leafHeight taxon="Burkina-70/2007">
 			<parameter id="age(Burkina-70/2007)"/>
@@ -1532,6 +1485,51 @@
 		<leafHeight taxon="Niger-252/2007">
 			<parameter id="age(Niger-252/2007)"/>
 		</leafHeight>
+		<leafHeight taxon="8636HAV/1995">
+			<parameter id="age(8636HAV/1995)"/>
+		</leafHeight>
+		<leafHeight taxon="8659GUI/1986">
+			<parameter id="age(8659GUI/1986)"/>
+		</leafHeight>
+		<leafHeight taxon="8660GUI/1986">
+			<parameter id="age(8660GUI/1986)"/>
+		</leafHeight>
+		<leafHeight taxon="8689MAU/1986">
+			<parameter id="age(8689MAU/1986)"/>
+		</leafHeight>
+		<leafHeight taxon="8731TCH/1987">
+			<parameter id="age(8731TCH/1987)"/>
+		</leafHeight>
+		<leafHeight taxon="8732TCH/1987">
+			<parameter id="age(8732TCH/1987)"/>
+		</leafHeight>
+		<leafHeight taxon="8733TCH/1987">
+			<parameter id="age(8733TCH/1987)"/>
+		</leafHeight>
+		<leafHeight taxon="9009NIG/1990">
+			<parameter id="age(9009NIG/1990)"/>
+		</leafHeight>
+		<leafHeight taxon="9010NIG/1990">
+			<parameter id="age(9010NIG/1990)"/>
+		</leafHeight>
+		<leafHeight taxon="9011NIG/1990">
+			<parameter id="age(9011NIG/1990)"/>
+		</leafHeight>
+		<leafHeight taxon="9012NIG/1990">
+			<parameter id="age(9012NIG/1990)"/>
+		</leafHeight>
+		<leafHeight taxon="9013NIG/1990">
+			<parameter id="age(9013NIG/1990)"/>
+		</leafHeight>
+		<leafHeight taxon="9014NIG/1990">
+			<parameter id="age(9014NIG/1990)"/>
+		</leafHeight>
+		<leafHeight taxon="9547HAV/1995">
+			<parameter id="age(9547HAV/1995)"/>
+		</leafHeight>
+		<leafHeight taxon="Burkina-37/2007">
+			<parameter id="age(Burkina-37/2007)"/>
+		</leafHeight>
 
 		<!-- END Tip date sampling                                                   -->
 
@@ -1555,21 +1553,21 @@
 
 	<!-- Taxon Sets                                                              -->
 	
-	<tmrcaStatistic id="tmrca(rabies_dog)" absolute="false" includeStem="true">
+	<tmrcaStatistic id="tmrca(untitled0)" absolute="false" includeStem="true">
 		<mrca>
-			<taxa idref="rabies_dog"/>
+			<taxa idref="untitled0"/>
 		</mrca>
 		<treeModel idref="treeModel"/>
 	</tmrcaStatistic>
-	<tmrcaStatistic id="age(rabies_dog)" absolute="true" includeStem="true">
+	<tmrcaStatistic id="age(untitled0)" absolute="true" includeStem="true">
 		<mrca>
-			<taxa idref="rabies_dog"/>
+			<taxa idref="untitled0"/>
 		</mrca>
 		<treeModel idref="treeModel"/>
 	</tmrcaStatistic>
-	<monophylyStatistic id="monophyly(rabies_dog)">
+	<monophylyStatistic id="monophyly(untitled0)">
 		<mrca>
-			<taxa idref="rabies_dog"/>
+			<taxa idref="untitled0"/>
 		</mrca>
 		<treeModel idref="treeModel"/>
 	</monophylyStatistic>
@@ -1622,15 +1620,15 @@
 	
 
 	<!-- The strict clock (Uniform rates across branches)                        -->
-	<strictClockBranchRates id="geo.branchRates">
+	<strictClockBranchRates id="geo_attr.branchRates">
 		<rate>
-			<parameter id="geo.clock.rate" value="0.001" lower="0.0"/>
+			<parameter id="geo_attr.clock.rate" value="0.001" lower="0.0"/>
 		</rate>
 	</strictClockBranchRates>
 	
-	<rateStatistic id="geo.meanRate" name="geo.meanRate" mode="mean" internal="true" external="true">
+	<rateStatistic id="geo_attr.meanRate" name="geo_attr.meanRate" mode="mean" internal="true" external="true">
 		<treeModel idref="treeModel"/>
-		<strictClockBranchRates idref="geo.branchRates"/>
+		<strictClockBranchRates idref="geo_attr.branchRates"/>
 	</rateStatistic>
 	
 
@@ -1713,65 +1711,53 @@
 	
 
 	<!-- Likelihood for tree given sequence data                                 -->
-	<ancestralTreeLikelihood id="CP1+2.treeLikelihood" useAmbiguities="false" stateTagName="CP1+2.states">
-		<mergePatterns idref="CP1+2.patterns"/>
+	<treeDataLikelihood id="default.treeLikelihood" useAmbiguities="false" usePreOrder="false">
+		<partition>
+			<mergePatterns idref="CP1+2.patterns"/>
+			<siteModel idref="CP1+2.siteModel"/>
+		</partition>
+		<partition>
+			<patterns idref="CP3.patterns"/>
+			<siteModel idref="CP3.siteModel"/>
+		</partition>
 		<treeModel idref="treeModel"/>
-		<siteModel idref="CP1+2.siteModel"/>
 		<discretizedBranchRates idref="default.branchRates"/>
-	</ancestralTreeLikelihood>
-
-	<!-- Likelihood for tree given sequence data                                 -->
-	<ancestralTreeLikelihood id="CP3.treeLikelihood" useAmbiguities="false" stateTagName="CP3.states">
-		<patterns idref="CP3.patterns"/>
-		<treeModel idref="treeModel"/>
-		<siteModel idref="CP3.siteModel"/>
-		<discretizedBranchRates idref="default.branchRates"/>
-	</ancestralTreeLikelihood>
+	</treeDataLikelihood>
 	
 
 	<!-- START Discrete Traits Model                                             -->
 
 	<!-- symmetric CTMC model for discrete state reconstructions                 -->
-	<generalSubstitutionModel id="geo.model">
-		<generalDataType idref="geo.dataType"/>
+	<generalSubstitutionModel id="geo_attr.model">
+		<generalDataType idref="geo_attr.dataType"/>
 		<frequencies>
-			<frequencyModel id="geo.frequencyModel" normalize="true">
-				<generalDataType idref="geo.dataType"/>
+			<frequencyModel id="geo_attr.frequencyModel" normalize="true">
+				<generalDataType idref="geo_attr.dataType"/>
 				<frequencies>
-					<parameter id="geo.frequencies" dimension="15"/>
+					<parameter id="geo_attr.frequencies" dimension="13"/>
 				</frequencies>
 			</frequencyModel>
 		</frequencies>
 
 		<!-- rates and indicators                                                    -->
 		<rates>
-			<parameter id="geo.rates" dimension="105" value="1.0" lower="0.0"/>
+			<parameter id="geo_attr.rates" dimension="78" value="1.0" lower="0.0"/>
 		</rates>
-		<rateIndicator>
-			<parameter id="geo.indicators" dimension="105" value="1.0"/>
-		</rateIndicator>
 	</generalSubstitutionModel>
-	<sumStatistic id="geo.nonZeroRates" elementwise="true">
-		<parameter idref="geo.indicators"/>
-	</sumStatistic>
-	<productStatistic id="geo.actualRates" elementwise="false">
-		<parameter idref="geo.indicators"/>
-		<parameter idref="geo.rates"/>
-	</productStatistic>
-	<siteModel id="geo.siteModel">
+	<siteModel id="geo_attr.siteModel">
 		<substitutionModel>
-			<generalSubstitutionModel idref="geo.model"/>
+			<generalSubstitutionModel idref="geo_attr.model"/>
 		</substitutionModel>
 	</siteModel>
 
 	<!-- Likelihood for tree given discrete trait data                           -->
-	<ancestralTreeLikelihood id="geo.treeLikelihood" stateTagName="geo.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
-		<attributePatterns idref="geo.pattern"/>
+	<ancestralTreeLikelihood id="geo_attr.treeLikelihood" stateTagName="geo_attr.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="geo_attr.pattern"/>
 		<treeModel idref="treeModel"/>
-		<siteModel idref="geo.siteModel"/>
-		<generalSubstitutionModel idref="geo.model"/>
-		<generalSubstitutionModel idref="geo.model"/>
-		<strictClockBranchRates idref="geo.branchRates"/>
+		<siteModel idref="geo_attr.siteModel"/>
+		<generalSubstitutionModel idref="geo_attr.model"/>
+		<generalSubstitutionModel idref="geo_attr.model"/>
+		<strictClockBranchRates idref="geo_attr.branchRates"/>
 	</ancestralTreeLikelihood>
 
 	<!-- END Discrete Traits Model                                               -->
@@ -1815,14 +1801,14 @@
 			<parameter idref="default.allNus"/>
 		</deltaExchange>
 		<scaleOperator scaleFactor="0.75" weight="3">
-			<parameter idref="geo.clock.rate"/>
+			<parameter idref="geo_attr.clock.rate"/>
 		</scaleOperator>
 		<upDownOperator scaleFactor="0.75" weight="3">
 			<up>
 				<parameter idref="treeModel.allInternalNodeHeights"/>
 			</up>
 			<down>
-				<parameter idref="geo.clock.rate"/>
+				<parameter idref="geo_attr.clock.rate"/>
 			</down>
 		</upDownOperator>
 		<subtreeLeap size="1.0" weight="101">
@@ -1835,11 +1821,8 @@
 			<parameter idref="constant.popSize"/>
 		</scaleOperator>
 		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
-			<parameter idref="geo.rates"/>
+			<parameter idref="geo_attr.rates"/>
 		</scaleOperator>
-		<bitFlipOperator weight="7">
-			<parameter idref="geo.indicators"/>
-		</bitFlipOperator>
 		<uniformOperator weight="2">
 			<parameter idref="age(02025SEN/2001)"/>
 		</uniformOperator>
@@ -1887,9 +1870,6 @@
 		</uniformOperator>
 		<uniformOperator weight="2">
 			<parameter idref="age(07029SEN/2006)"/>
-		</uniformOperator>
-		<uniformOperator weight="2">
-			<parameter idref="age(07059IC/2007)"/>
 		</uniformOperator>
 		<uniformOperator weight="2">
 			<parameter idref="age(07149RCA/2004)"/>
@@ -1961,31 +1941,13 @@
 			<parameter idref="age(49BF/2007)"/>
 		</uniformOperator>
 		<uniformOperator weight="2">
-			<parameter idref="age(8636HAV/1995)"/>
-		</uniformOperator>
-		<uniformOperator weight="2">
-			<parameter idref="age(8659GUI/1986)"/>
-		</uniformOperator>
-		<uniformOperator weight="2">
-			<parameter idref="age(8660GUI/1986)"/>
-		</uniformOperator>
-		<uniformOperator weight="2">
-			<parameter idref="age(8689MAU/1986)"/>
+			<parameter idref="age(07059IC/2007)"/>
 		</uniformOperator>
 		<uniformOperator weight="2">
 			<parameter idref="age(8697BEN/1986)"/>
 		</uniformOperator>
 		<uniformOperator weight="2">
 			<parameter idref="age(8718NIG/1987)"/>
-		</uniformOperator>
-		<uniformOperator weight="2">
-			<parameter idref="age(8731TCH/1987)"/>
-		</uniformOperator>
-		<uniformOperator weight="2">
-			<parameter idref="age(8732TCH/1987)"/>
-		</uniformOperator>
-		<uniformOperator weight="2">
-			<parameter idref="age(8733TCH/1987)"/>
 		</uniformOperator>
 		<uniformOperator weight="2">
 			<parameter idref="age(8801CAM/1987)"/>
@@ -2007,24 +1969,6 @@
 		</uniformOperator>
 		<uniformOperator weight="2">
 			<parameter idref="age(9003IC/1990)"/>
-		</uniformOperator>
-		<uniformOperator weight="2">
-			<parameter idref="age(9009NIG/1990)"/>
-		</uniformOperator>
-		<uniformOperator weight="2">
-			<parameter idref="age(9010NIG/1990)"/>
-		</uniformOperator>
-		<uniformOperator weight="2">
-			<parameter idref="age(9011NIG/1990)"/>
-		</uniformOperator>
-		<uniformOperator weight="2">
-			<parameter idref="age(9012NIG/1990)"/>
-		</uniformOperator>
-		<uniformOperator weight="2">
-			<parameter idref="age(9013NIG/1990)"/>
-		</uniformOperator>
-		<uniformOperator weight="2">
-			<parameter idref="age(9014NIG/1990)"/>
 		</uniformOperator>
 		<uniformOperator weight="2">
 			<parameter idref="age(9021TCH/1990)"/>
@@ -2081,9 +2025,6 @@
 			<parameter idref="age(9421MAU/1994)"/>
 		</uniformOperator>
 		<uniformOperator weight="2">
-			<parameter idref="age(9547HAV/1995)"/>
-		</uniformOperator>
-		<uniformOperator weight="2">
 			<parameter idref="age(9609TCH/1996)"/>
 		</uniformOperator>
 		<uniformOperator weight="2">
@@ -2103,9 +2044,6 @@
 		</uniformOperator>
 		<uniformOperator weight="2">
 			<parameter idref="age(Burkina-21/2007)"/>
-		</uniformOperator>
-		<uniformOperator weight="2">
-			<parameter idref="age(Burkina-37/2007)"/>
 		</uniformOperator>
 		<uniformOperator weight="2">
 			<parameter idref="age(Burkina-70/2007)"/>
@@ -2143,11 +2081,56 @@
 		<uniformOperator weight="2">
 			<parameter idref="age(Niger-252/2007)"/>
 		</uniformOperator>
+		<uniformOperator weight="2">
+			<parameter idref="age(8636HAV/1995)"/>
+		</uniformOperator>
+		<uniformOperator weight="2">
+			<parameter idref="age(8659GUI/1986)"/>
+		</uniformOperator>
+		<uniformOperator weight="2">
+			<parameter idref="age(8660GUI/1986)"/>
+		</uniformOperator>
+		<uniformOperator weight="2">
+			<parameter idref="age(8689MAU/1986)"/>
+		</uniformOperator>
+		<uniformOperator weight="2">
+			<parameter idref="age(8731TCH/1987)"/>
+		</uniformOperator>
+		<uniformOperator weight="2">
+			<parameter idref="age(8732TCH/1987)"/>
+		</uniformOperator>
+		<uniformOperator weight="2">
+			<parameter idref="age(8733TCH/1987)"/>
+		</uniformOperator>
+		<uniformOperator weight="2">
+			<parameter idref="age(9009NIG/1990)"/>
+		</uniformOperator>
+		<uniformOperator weight="2">
+			<parameter idref="age(9010NIG/1990)"/>
+		</uniformOperator>
+		<uniformOperator weight="2">
+			<parameter idref="age(9011NIG/1990)"/>
+		</uniformOperator>
+		<uniformOperator weight="2">
+			<parameter idref="age(9012NIG/1990)"/>
+		</uniformOperator>
+		<uniformOperator weight="2">
+			<parameter idref="age(9013NIG/1990)"/>
+		</uniformOperator>
+		<uniformOperator weight="2">
+			<parameter idref="age(9014NIG/1990)"/>
+		</uniformOperator>
+		<uniformOperator weight="2">
+			<parameter idref="age(9547HAV/1995)"/>
+		</uniformOperator>
+		<uniformOperator weight="2">
+			<parameter idref="age(Burkina-37/2007)"/>
+		</uniformOperator>
 	</operators>
 	
 
 	<!-- Define MCMC                                                             -->
-	<mcmc id="mcmc" chainLength="100000000" autoOptimize="true" operatorAnalysis="RABV.ops">
+	<mcmc id="mcmc" chainLength="100000000" autoOptimize="true">
 		<joint id="joint">
 			<prior id="prior">
 				<logNormalPrior mu="1.0" sigma="1.25" offset="0.0">
@@ -2176,24 +2159,21 @@
 				</exponentialPrior>
 				<ctmcScalePrior>
 					<ctmcScale>
-						<parameter idref="geo.clock.rate"/>
+						<parameter idref="geo_attr.clock.rate"/>
 					</ctmcScale>
 					<treeModel idref="treeModel"/>
 				</ctmcScalePrior>
 				<gammaPrior shape="0.001" scale="1000.0" offset="0.0">
 					<parameter idref="constant.popSize"/>
 				</gammaPrior>
-				<poissonPrior mean="0.6931471805599453" offset="14.0">
-					<statistic idref="geo.nonZeroRates"/>
-				</poissonPrior>
 				<uniformPrior lower="0.0" upper="1.0">
-					<parameter idref="geo.frequencies"/>
+					<parameter idref="geo_attr.frequencies"/>
 				</uniformPrior>
 				<cachedPrior>
 					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
-						<parameter idref="geo.rates"/>
+						<parameter idref="geo_attr.rates"/>
 					</gammaPrior>
-					<parameter idref="geo.rates"/>
+					<parameter idref="geo_attr.rates"/>
 				</cachedPrior>
 				<uniformPrior lower="0.0" upper="1.0E100">
 					<parameter idref="age(02025SEN/2001)"/>
@@ -2242,9 +2222,6 @@
 				</uniformPrior>
 				<uniformPrior lower="0.0" upper="1.0E100">
 					<parameter idref="age(07029SEN/2006)"/>
-				</uniformPrior>
-				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(07059IC/2007)"/>
 				</uniformPrior>
 				<uniformPrior lower="0.0" upper="1.0E100">
 					<parameter idref="age(07149RCA/2004)"/>
@@ -2316,31 +2293,13 @@
 					<parameter idref="age(49BF/2007)"/>
 				</uniformPrior>
 				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(8636HAV/1995)"/>
-				</uniformPrior>
-				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(8659GUI/1986)"/>
-				</uniformPrior>
-				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(8660GUI/1986)"/>
-				</uniformPrior>
-				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(8689MAU/1986)"/>
+					<parameter idref="age(07059IC/2007)"/>
 				</uniformPrior>
 				<uniformPrior lower="0.0" upper="1.0E100">
 					<parameter idref="age(8697BEN/1986)"/>
 				</uniformPrior>
 				<uniformPrior lower="0.0" upper="1.0E100">
 					<parameter idref="age(8718NIG/1987)"/>
-				</uniformPrior>
-				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(8731TCH/1987)"/>
-				</uniformPrior>
-				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(8732TCH/1987)"/>
-				</uniformPrior>
-				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(8733TCH/1987)"/>
 				</uniformPrior>
 				<uniformPrior lower="0.0" upper="1.0E100">
 					<parameter idref="age(8801CAM/1987)"/>
@@ -2362,24 +2321,6 @@
 				</uniformPrior>
 				<uniformPrior lower="0.0" upper="1.0E100">
 					<parameter idref="age(9003IC/1990)"/>
-				</uniformPrior>
-				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(9009NIG/1990)"/>
-				</uniformPrior>
-				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(9010NIG/1990)"/>
-				</uniformPrior>
-				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(9011NIG/1990)"/>
-				</uniformPrior>
-				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(9012NIG/1990)"/>
-				</uniformPrior>
-				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(9013NIG/1990)"/>
-				</uniformPrior>
-				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(9014NIG/1990)"/>
 				</uniformPrior>
 				<uniformPrior lower="0.0" upper="1.0E100">
 					<parameter idref="age(9021TCH/1990)"/>
@@ -2436,9 +2377,6 @@
 					<parameter idref="age(9421MAU/1994)"/>
 				</uniformPrior>
 				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(9547HAV/1995)"/>
-				</uniformPrior>
-				<uniformPrior lower="0.0" upper="1.0E100">
 					<parameter idref="age(9609TCH/1996)"/>
 				</uniformPrior>
 				<uniformPrior lower="0.0" upper="1.0E100">
@@ -2458,9 +2396,6 @@
 				</uniformPrior>
 				<uniformPrior lower="0.0" upper="1.0E100">
 					<parameter idref="age(Burkina-21/2007)"/>
-				</uniformPrior>
-				<uniformPrior lower="0.0" upper="1.0E100">
-					<parameter idref="age(Burkina-37/2007)"/>
 				</uniformPrior>
 				<uniformPrior lower="0.0" upper="1.0E100">
 					<parameter idref="age(Burkina-70/2007)"/>
@@ -2498,24 +2433,62 @@
 				<uniformPrior lower="0.0" upper="1.0E100">
 					<parameter idref="age(Niger-252/2007)"/>
 				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0E100">
+					<parameter idref="age(8636HAV/1995)"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0E100">
+					<parameter idref="age(8659GUI/1986)"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0E100">
+					<parameter idref="age(8660GUI/1986)"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0E100">
+					<parameter idref="age(8689MAU/1986)"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0E100">
+					<parameter idref="age(8731TCH/1987)"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0E100">
+					<parameter idref="age(8732TCH/1987)"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0E100">
+					<parameter idref="age(8733TCH/1987)"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0E100">
+					<parameter idref="age(9009NIG/1990)"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0E100">
+					<parameter idref="age(9010NIG/1990)"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0E100">
+					<parameter idref="age(9011NIG/1990)"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0E100">
+					<parameter idref="age(9012NIG/1990)"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0E100">
+					<parameter idref="age(9013NIG/1990)"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0E100">
+					<parameter idref="age(9014NIG/1990)"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0E100">
+					<parameter idref="age(9547HAV/1995)"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0E100">
+					<parameter idref="age(Burkina-37/2007)"/>
+				</uniformPrior>
 				<coalescentLikelihood idref="coalescent"/>
 				
 				
 				<discretizedBranchRates idref="default.branchRates"/>
-				<strictClockBranchRates idref="geo.branchRates"/>
-
-				<!-- START Discrete Traits Model                                             -->
-				<generalSubstitutionModel idref="geo.model"/>
-
-				<!-- END Discrete Traits Model                                               -->
-
+				<strictClockBranchRates idref="geo_attr.branchRates"/>
 			</prior>
 			<likelihood id="likelihood">
-				<ancestralTreeLikelihood idref="CP1+2.treeLikelihood"/>
-				<ancestralTreeLikelihood idref="CP3.treeLikelihood"/>
+				<treeDataLikelihood idref="default.treeLikelihood"/>
 
 				<!-- START Discrete Traits Model                                             -->
-				<ancestralTreeLikelihood idref="geo.treeLikelihood"/>
+				<ancestralTreeLikelihood idref="geo_attr.treeLikelihood"/>
 
 				<!-- END Discrete Traits Model                                               -->
 
@@ -2540,14 +2513,11 @@
 			<column label="default.ucld.mean" sf="6" width="12">
 				<parameter idref="default.ucld.mean"/>
 			</column>
-			<column label="geo.clock.rate" sf="6" width="12">
-				<parameter idref="geo.clock.rate"/>
+			<column label="geo_attr.clock.rate" sf="6" width="12">
+				<parameter idref="geo_attr.clock.rate"/>
 			</column>
 
 			<!-- START Discrete Traits Model                                             -->
-			<column label="geo.nonZeroRates" dp="0" width="6">
-				<sumStatistic idref="geo.nonZeroRates"/>
-			</column>
 
 			<!-- END Discrete Traits Model                                               -->
 
@@ -2561,8 +2531,8 @@
 			<treeHeightStatistic idref="rootHeight"/>
 			<tmrcaStatistic idref="age(root)"/>
 			<treeLengthStatistic idref="treeLength"/>
-			<tmrcaStatistic idref="tmrca(rabies_dog)"/>
-			<tmrcaStatistic idref="age(rabies_dog)"/>
+			<tmrcaStatistic idref="tmrca(untitled0)"/>
+			<tmrcaStatistic idref="age(untitled0)"/>
 			<parameter idref="constant.popSize"/>
 			<parameter idref="CP1+2.kappa"/>
 			<parameter idref="CP3.kappa"/>
@@ -2573,16 +2543,14 @@
 			<statistic idref="CP3.mu"/>
 			<parameter idref="default.ucld.mean"/>
 			<parameter idref="default.ucld.stdev"/>
-			<parameter idref="geo.clock.rate"/>
+			<parameter idref="geo_attr.clock.rate"/>
 			<rateStatistic idref="default.meanRate"/>
 			<rateStatistic idref="default.coefficientOfVariation"/>
 			<rateCovarianceStatistic idref="default.covariance"/>
-			<rateStatistic idref="geo.meanRate"/>
+			<rateStatistic idref="geo_attr.meanRate"/>
 
 			<!-- START Discrete Traits Model                                             -->
-			<parameter idref="geo.rates"/>
-			<parameter idref="geo.indicators"/>
-			<sumStatistic idref="geo.nonZeroRates"/>
+			<parameter idref="geo_attr.rates"/>
 
 			<!-- END Discrete Traits Model                                               -->
 
@@ -2604,7 +2572,6 @@
 			<parameter idref="age(07027SEN/2006)"/>
 			<parameter idref="age(07028SEN/2006)"/>
 			<parameter idref="age(07029SEN/2006)"/>
-			<parameter idref="age(07059IC/2007)"/>
 			<parameter idref="age(07149RCA/2004)"/>
 			<parameter idref="age(07197SEN/1995)"/>
 			<parameter idref="age(07207SEN/1997)"/>
@@ -2628,15 +2595,9 @@
 			<parameter idref="age(28BF/2007)"/>
 			<parameter idref="age(36BF/2007)"/>
 			<parameter idref="age(49BF/2007)"/>
-			<parameter idref="age(8636HAV/1995)"/>
-			<parameter idref="age(8659GUI/1986)"/>
-			<parameter idref="age(8660GUI/1986)"/>
-			<parameter idref="age(8689MAU/1986)"/>
+			<parameter idref="age(07059IC/2007)"/>
 			<parameter idref="age(8697BEN/1986)"/>
 			<parameter idref="age(8718NIG/1987)"/>
-			<parameter idref="age(8731TCH/1987)"/>
-			<parameter idref="age(8732TCH/1987)"/>
-			<parameter idref="age(8733TCH/1987)"/>
 			<parameter idref="age(8801CAM/1987)"/>
 			<parameter idref="age(8804CAM/1988)"/>
 			<parameter idref="age(8805CAM/1988)"/>
@@ -2644,12 +2605,6 @@
 			<parameter idref="age(8912IC/1989)"/>
 			<parameter idref="age(8913IC/1989)"/>
 			<parameter idref="age(9003IC/1990)"/>
-			<parameter idref="age(9009NIG/1990)"/>
-			<parameter idref="age(9010NIG/1990)"/>
-			<parameter idref="age(9011NIG/1990)"/>
-			<parameter idref="age(9012NIG/1990)"/>
-			<parameter idref="age(9013NIG/1990)"/>
-			<parameter idref="age(9014NIG/1990)"/>
 			<parameter idref="age(9021TCH/1990)"/>
 			<parameter idref="age(9024GUI/1990)"/>
 			<parameter idref="age(9026IC/1990)"/>
@@ -2668,7 +2623,6 @@
 			<parameter idref="age(9314MAU/1993)"/>
 			<parameter idref="age(9361GUI/1993)"/>
 			<parameter idref="age(9421MAU/1994)"/>
-			<parameter idref="age(9547HAV/1995)"/>
 			<parameter idref="age(9609TCH/1996)"/>
 			<parameter idref="age(Burkina-124/2007)"/>
 			<parameter idref="age(Burkina-137/2007)"/>
@@ -2676,7 +2630,6 @@
 			<parameter idref="age(Burkina-19/2007)"/>
 			<parameter idref="age(Burkina-20/2007)"/>
 			<parameter idref="age(Burkina-21/2007)"/>
-			<parameter idref="age(Burkina-37/2007)"/>
 			<parameter idref="age(Burkina-70/2007)"/>
 			<parameter idref="age(Mauritania-1920/05/2005)"/>
 			<parameter idref="age(Mauritania-1922/05/2005)"/>
@@ -2689,16 +2642,30 @@
 			<parameter idref="age(Niger-247/2007)"/>
 			<parameter idref="age(Niger-251/2007)"/>
 			<parameter idref="age(Niger-252/2007)"/>
+			<parameter idref="age(8636HAV/1995)"/>
+			<parameter idref="age(8659GUI/1986)"/>
+			<parameter idref="age(8660GUI/1986)"/>
+			<parameter idref="age(8689MAU/1986)"/>
+			<parameter idref="age(8731TCH/1987)"/>
+			<parameter idref="age(8732TCH/1987)"/>
+			<parameter idref="age(8733TCH/1987)"/>
+			<parameter idref="age(9009NIG/1990)"/>
+			<parameter idref="age(9010NIG/1990)"/>
+			<parameter idref="age(9011NIG/1990)"/>
+			<parameter idref="age(9012NIG/1990)"/>
+			<parameter idref="age(9013NIG/1990)"/>
+			<parameter idref="age(9014NIG/1990)"/>
+			<parameter idref="age(9547HAV/1995)"/>
+			<parameter idref="age(Burkina-37/2007)"/>
 
 			<!-- END Tip date sampling                                                   -->
 
-			<ancestralTreeLikelihood idref="CP1+2.treeLikelihood"/>
-			<ancestralTreeLikelihood idref="CP3.treeLikelihood"/>
+			<treeDataLikelihood idref="default.treeLikelihood"/>
 			<discretizedBranchRates idref="default.branchRates"/>
-			<strictClockBranchRates idref="geo.branchRates"/>
+			<strictClockBranchRates idref="geo_attr.branchRates"/>
 
 			<!-- START Discrete Traits Model                                             -->
-			<ancestralTreeLikelihood idref="geo.treeLikelihood"/>
+			<ancestralTreeLikelihood idref="geo_attr.treeLikelihood"/>
 
 			<!-- END Discrete Traits Model                                               -->
 
@@ -2707,10 +2674,8 @@
 		</log>
 
 		<!-- START Discrete Traits Model                                             -->
-		<log id="RABV.georateMatrixLog" logEvery="1000" fileName="RABV.geo.rates.log">
-			<parameter idref="geo.rates"/>
-			<parameter idref="geo.indicators"/>
-			<sumStatistic idref="geo.nonZeroRates"/>
+		<log id="RABV.geo_attrrateMatrixLog" logEvery="1000" fileName="RABV.geo_attr.rates.log">
+			<parameter idref="geo_attr.rates"/>
 		</log>
 
 		<!-- END Discrete Traits Model                                               -->
@@ -2722,28 +2687,14 @@
 			<trait name="rate" tag="default.rate">
 				<discretizedBranchRates idref="default.branchRates"/>
 			</trait>
-			<trait name="rate" tag="geo.rate">
-				<strictClockBranchRates idref="geo.branchRates"/>
-			</trait>
-			<trait name="rate" tag="geo.rate">
-				<strictClockBranchRates idref="geo.branchRates"/>
+			<trait name="rate" tag="geo_attr.rate">
+				<strictClockBranchRates idref="geo_attr.branchRates"/>
 			</trait>
 			<joint idref="joint"/>
-
-			<!-- START Ancestral state reconstruction                                    -->
-			<trait name="CP1+2.states" tag="RABV.CP1+2">
-				<ancestralTreeLikelihood idref="CP1+2.treeLikelihood"/>
-			</trait>
-			<trait name="CP3.states" tag="RABV.CP3">
-				<ancestralTreeLikelihood idref="CP3.treeLikelihood"/>
-			</trait>
-
-			<!-- END Ancestral state reconstruction                                      -->
-
 		</logTree>
 
 		<!-- write state of Markov chain to checkpoint file                          -->
-		<logCheckpoint id="checkpointFileLog" checkpointEvery="1000000" checkpointFinal="100000000" fileName="RABV.chkpt" overwrite="false"/>
+		<logCheckpoint id="checkpointFileLog" checkpointEvery="1000000" checkpointFinal="10000000" fileName="RABV.chkpt" overwrite="false"/>
 	</mcmc>
 	
 	<report>
