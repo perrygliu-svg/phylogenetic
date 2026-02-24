@@ -23,8 +23,8 @@ HKY nucleotide substitution model:
 	Hasegawa M, Kishino H, Yano T (1985) Dating the human-ape splitting by a molecular clock of mitochondrial DNA. Journal of Molecular Evolution. 22, 160-174
 Discrete gamma-distributed rate heterogeneity model:
 	Yang Z (1994) Maximum likelihood phylogenetic estimation from DNA sequences with variable rates over sites: approximate methods. J. Mol. Evol.. 39, 306-314
-Log Rate Substitution Model:
-	Lemey P, Rambaut A, Bedford T, Thiemann C, Grady D, Bielejec F, Baele G, Russell C, Smith D, Brockman D, Suchard MA (2014) Unifying viral genetics and human transportation data to predict the global transmission dynamics of human influenza H3N2. PLoS Pathogens. e100392
+Stochastic search variable selection, reversible substitution model:
+	Lemey P, Rambaut A, Drummond AJ, Suchard MA (2009) Bayesian phylogeography finds its roots. PLoS Computational Biology. e1000520
 
 PRIOR MODELS
 CTMC Scale Reference Prior model:

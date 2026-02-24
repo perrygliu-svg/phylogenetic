@@ -1700,8 +1700,6 @@
 		<siteModel idref="CP3.siteModel"/>
 	</statistic>
 
-	
-	
 
 	<!-- Collecting together relative rates for partitions                       -->
 	<compoundParameter id="default.allNus">
@@ -1727,36 +1725,59 @@
 
 	<!-- START Discrete Traits Model                                             -->
 
-	<!-- symmetric CTMC model for discrete state reconstructions                 -->
-	<generalSubstitutionModel id="geo_attr.model">
+	<!-- transformed rate CTMC model for discrete state reconstructions  (swapped out)                -->
+	<transformedRateSubstitutionModel id="geo_attr.model" normalize="true" scaleRatesByFrequencies="false">
 		<generalDataType idref="geo_attr.dataType"/>
-		<frequencies>
+		<rootFrequencies>
 			<frequencyModel id="geo_attr.frequencyModel" normalize="true">
 				<generalDataType idref="geo_attr.dataType"/>
 				<frequencies>
 					<parameter id="geo_attr.frequencies" dimension="13"/>
 				</frequencies>
 			</frequencyModel>
-		</frequencies>
+		</rootFrequencies>
 
-		<!-- rates and indicators                                                    -->
-		<rates>
-			<parameter id="geo_attr.rates" dimension="78" value="1.0" lower="0.0"/>
-		</rates>
-	</generalSubstitutionModel>
+		<!-- rates and indicators
+        <rates>
+            <parameter id="location.rates" dimension="21" value="1.0" lower="0.0"/>
+        </rates>                                                    -->
+		<transformedRates>
+			<parameter id="geo_attr.rates" dimension="156" value="1.0" />
+			<transform type="squared"/>
+		</transformedRates>
+	</transformedRateSubstitutionModel>
+
 	<siteModel id="geo_attr.siteModel">
 		<substitutionModel>
-			<generalSubstitutionModel idref="geo_attr.model"/>
+			<transformedRateSubstitutionModel idref="geo_attr.model"/>
 		</substitutionModel>
 	</siteModel>
+
+	<bayesianBridge id="bbDistribution">
+		<parameter idref="geo_attr.rates"/>
+		<globalScale>
+			<parameter id="globalScale" value="0.1" lower="0"/>
+		</globalScale>
+		<localScale>
+			<parameter id="localScale" value="1" dimension="2" lower="0.0"/>
+		</localScale>
+		<exponent>
+			<parameter id="exponent" value="0.1"/>
+		</exponent>
+		<slabWidth>
+			<parameter id="slabWidth"  value="2.0"/>
+		</slabWidth>
+	</bayesianBridge>
+
+
 
 	<!-- Likelihood for tree given discrete trait data                           -->
 	<ancestralTreeLikelihood id="geo_attr.treeLikelihood" stateTagName="geo_attr.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
 		<attributePatterns idref="geo_attr.pattern"/>
 		<treeModel idref="treeModel"/>
 		<siteModel idref="geo_attr.siteModel"/>
-		<generalSubstitutionModel idref="geo_attr.model"/>
-		<generalSubstitutionModel idref="geo_attr.model"/>
+		<transformedRateSubstitutionModel idref="geo_attr.model"/>
+		<transformedRateSubstitutionModel idref="geo_attr.model"/>
 		<strictClockBranchRates idref="geo_attr.branchRates"/>
 	</ancestralTreeLikelihood>
 
@@ -1820,9 +1841,11 @@
 		<scaleOperator scaleFactor="0.75" weight="3">
 			<parameter idref="constant.popSize"/>
 		</scaleOperator>
-		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+
+		<!-- changed scale to uniform operator                                                        -->
+		<uniformOperator weight="15">
 			<parameter idref="geo_attr.rates"/>
-		</scaleOperator>
+		</uniformOperator>
 		<uniformOperator weight="2">
 			<parameter idref="age(02025SEN/2001)"/>
 		</uniformOperator>
@@ -2127,7 +2150,7 @@
 			<parameter idref="age(Burkina-37/2007)"/>
 		</uniformOperator>
 	</operators>
-	
+
 
 	<!-- Define MCMC                                                             -->
 	<mcmc id="mcmc" chainLength="100000000" autoOptimize="true">
