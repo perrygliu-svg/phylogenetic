@@ -1742,7 +1742,7 @@
             <parameter id="location.rates" dimension="21" value="1.0" lower="0.0"/>
         </rates>                                                    -->
 		<transformedRates>
-			<parameter id="geo_attr.rates" dimension="156" value="1.0" />
+			<parameter id="geo_attr.rates" dimension="156" value="1.0" lower="0"/>
 			<transform type="squared"/>
 		</transformedRates>
 	</transformedRateSubstitutionModel>
@@ -1776,7 +1776,6 @@
 		<attributePatterns idref="geo_attr.pattern"/>
 		<treeModel idref="treeModel"/>
 		<siteModel idref="geo_attr.siteModel"/>
-		<transformedRateSubstitutionModel idref="geo_attr.model"/>
 		<transformedRateSubstitutionModel idref="geo_attr.model"/>
 		<strictClockBranchRates idref="geo_attr.branchRates"/>
 	</ancestralTreeLikelihood>
@@ -1843,9 +1842,9 @@
 		</scaleOperator>
 
 		<!-- changed scale to uniform operator                                                        -->
-		<uniformOperator weight="15">
+		<scaleOperator scaleFactor="0.75" weight="5" scaleAllIndependently="true">
 			<parameter idref="geo_attr.rates"/>
-		</uniformOperator>
+		</scaleOperator>
 		<uniformOperator weight="2">
 			<parameter idref="age(02025SEN/2001)"/>
 		</uniformOperator>
@@ -2547,7 +2546,7 @@
 		</log>
 
 		<!-- write log to file                                                       -->
-		<log id="fileLog" logEvery="1000" fileName="RABV.log" overwrite="false">
+		<log id="fileLog" logEvery="1000" fileName="RABV_experimental.log" overwrite="false">
 			<joint idref="joint"/>
 			<prior idref="prior"/>
 			<likelihood idref="likelihood"/>
@@ -2697,7 +2696,7 @@
 		</log>
 
 		<!-- START Discrete Traits Model                                             -->
-		<log id="RABV.geo_attrrateMatrixLog" logEvery="1000" fileName="RABV.geo_attr.rates.log">
+		<log id="RABV.geo_attrrateMatrixLog" logEvery="1000" fileName="RABV.geo_attr.rates_experimental.log">
 			<parameter idref="geo_attr.rates"/>
 		</log>
 
@@ -2705,7 +2704,7 @@
 
 
 		<!-- write tree log to file                                                  -->
-		<logTree id="treeFileLog" logEvery="1000" nexusFormat="true" fileName="RABV.trees" sortTranslationTable="true">
+		<logTree id="treeFileLog" logEvery="1000" nexusFormat="true" fileName="RABV_experimental.trees" sortTranslationTable="true">
 			<treeModel idref="treeModel"/>
 			<trait name="rate" tag="default.rate">
 				<discretizedBranchRates idref="default.branchRates"/>
@@ -2717,7 +2716,7 @@
 		</logTree>
 
 		<!-- write state of Markov chain to checkpoint file                          -->
-		<logCheckpoint id="checkpointFileLog" checkpointEvery="1000000" checkpointFinal="10000000" fileName="RABV.chkpt" overwrite="false"/>
+		<logCheckpoint id="checkpointFileLog" checkpointEvery="1000000" checkpointFinal="10000000" fileName="RABV_experimental.chkpt" overwrite="false"/>
 	</mcmc>
 	
 	<report>
