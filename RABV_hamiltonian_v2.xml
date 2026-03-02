@@ -2204,24 +2204,8 @@
 				</uniformPrior>
 
 				<!--idk if the geo attr prior requires changing, but I'll try explicitly specifying bbDistribution to see what happens-->
-				<cachedPrior>
-					<bayesianBridge id="bbDistribution">
-						<parameter idref="geo_attr.rates"/>
-						<globalScale>
-							<parameter id="globalScale" value="0.1" lower="0"/>
-						</globalScale>
-						<localScale>
-							<parameter id="localScale" value="1" dimension="2" lower="0.0"/>
-						</localScale>
-						<exponent>
-							<parameter id="exponent" value="0.1"/>
-						</exponent>
-						<slabWidth>
-							<parameter id="slabWidth"  value="2.0"/>
-						</slabWidth>
-					</bayesianBridge>
-				</cachedPrior>
 
+				<bayesianBridge idref="bbDistribution"/>
 
 				<uniformPrior lower="0.0" upper="1.0E100">
 					<parameter idref="age(02025SEN/2001)"/>
