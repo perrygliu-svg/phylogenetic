@@ -1841,10 +1841,21 @@
 			<parameter idref="constant.popSize"/>
 		</scaleOperator>
 
-		<!-- changed scale to uniform operator                                                        -->
-		<scaleOperator scaleFactor="0.75" weight="5" scaleAllIndependently="true">
+		<!-- changed scale to HMC operator                                                        -->
+		<hamiltonianMonteCarloOperator weight="10" nSteps="10" stepSize="1E-3" mode="vanilla"
+									   drawVariance="1.0" autoOptimize="true" targetAcceptanceProbability="0.8"
+									   preconditioningUpdateFrequency="1">
 			<parameter idref="geo_attr.rates"/>
-		</scaleOperator>
+			<jointGradient>
+				<bayesianBridge idref="bbDistribution"/>
+			</jointGradient>
+			<preconditioner>
+				<compoundPriorPreconditioner>
+					<bayesianBridgeDistribution idref="bbDistribution"/>
+				</compoundPriorPreconditioner>
+			</preconditioner>
+		</hamiltonianMonteCarloOperator>
+
 		<uniformOperator weight="2">
 			<parameter idref="age(02025SEN/2001)"/>
 		</uniformOperator>
@@ -2152,7 +2163,7 @@
 
 
 	<!-- Define MCMC                                                             -->
-	<mcmc id="mcmc" chainLength="100000000" autoOptimize="true">
+	<mcmc id="mcmc" chainLength="10000" autoOptimize="true">
 		<joint id="joint">
 			<prior id="prior">
 				<logNormalPrior mu="1.0" sigma="1.25" offset="0.0">
